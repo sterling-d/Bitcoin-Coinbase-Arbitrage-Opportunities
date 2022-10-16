@@ -19,19 +19,6 @@ This project leverages python 3.7 with the following packages:
 
 * [%matplotlib](https://github.com/matplotlib/matplotlib) - For plotting our DataFrames.
 
----
-
-## Installation Guide
-
-Before running the application first install the following dependencies.
-
-```
-   python
-   pip install pandas
-   pip install Path
-   pip install matplotlib
-   
-```
 
 ---
 
