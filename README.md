@@ -13,7 +13,7 @@ Our three phases of analysis will be:
 
 This project leverages python 3.7 with the following packages:
 
-* [pandas](https://github.com/pandas-dev/pandas) - For DataFrames
+* [pandas](https://github.com/pandas-dev/pandas) - For cleaning and filtering the data.
 
 * [Path](https://github.com/jaraco/path) - For reading in our DataFrames. 
 
